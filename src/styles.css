@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #c4b5fd;
+}
+#emojis {
+  padding: 0.5rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
+h2 {
+  color: #be185d;
+}
