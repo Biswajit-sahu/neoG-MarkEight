@@ -7,7 +7,13 @@ var emojiDictionary = {
   "😍": "Heart Eyes and Smiling Face",
   "🤣": "Rolling on the floor laughing",
   "🤑": "Money Mouth Face",
-  "🤫": "Shushing Face"
+  "🤫": "Shushing Face",
+  " 😛": "Face with Tongue ",
+   "😑 ": " Expressionless Face",
+   " 😌": " Relieved Face",
+   " 😬": " Grimacing Face",
+   " 😨": "Fearful Face ",
+   " 😈": " Smiling Face with Horns"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
